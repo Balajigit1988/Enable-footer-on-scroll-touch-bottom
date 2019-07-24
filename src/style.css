@@ -1,0 +1,18 @@
+
+.header-container{
+    height: 700px;
+}
+.footer-container{
+    position: fixed;
+    bottom:0;
+    background: #ccc;
+    display: block;
+}
+
+.enable{
+    display: block;
+}   
+
+.disable{
+    display: none;
+}
